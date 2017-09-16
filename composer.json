@@ -1,7 +1,7 @@
 {
     "name": "jurgisk/companies-api-client",
     "description": "This is a test implementation for using SOAP api client",
-    "type": "library",,
+    "type": "library",
     "license": "Self generated",
     "authors": [
         {
