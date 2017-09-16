@@ -4,7 +4,7 @@
     "type": "library",
     "autoload": {
     "psr-4": {
-      "Jurgis\\": "src/"
+      "Jurgis\\": "src"
     },
     "license": "Self generated",
     "authors": [
