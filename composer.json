@@ -3,8 +3,9 @@
     "description": "This is a test implementation for using SOAP api client",
     "type": "library",
     "autoload": {
-    "psr-4": {
-      "Jurgis\\": "src"
+        "psr-4": {
+          "Jurgis\\": "src"
+        },
     },
     "license": "Self generated",
     "authors": [
